@@ -79,8 +79,8 @@ int main() {
 
     // Person p2("John", "Smith"); // to use a constructor 
     Person p2;
-    p2.setFirstName("John");
-    p2.setLastName("Smith");
+    p2.setFirstName("John"); 
+    p2.setLastName("Smith"); 
 
     p.printFullName();
     p2.printFullName();
